@@ -1,0 +1,8 @@
+blackbody, T=1e5 K
+luminosity total 38
+radius 18
+hden 5
+sphere
+abundances planetary nebula
+save overview "script.ovr"
+save continuum "script.con" units microns

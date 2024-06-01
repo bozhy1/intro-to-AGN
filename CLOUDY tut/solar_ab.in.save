@@ -1,0 +1,6 @@
+blackbody, T=1e5 K
+luminosity total 38
+radius 18
+hden 5
+sphere
+save overview "solar_ab.ovr.con" units microns
